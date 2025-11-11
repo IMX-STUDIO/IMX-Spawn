@@ -42,3 +42,8 @@ Für Netzwerke, die keinen aufgeblähten All-in-One-Klotz wollen, sondern ein fo
 5. Spawn setzen:
    ```txt
    /setspawn
+
+## 📄 Lizenz
+
+IMX-Spawn ist freie Software unter der **GNU GPLv3**.  
+Siehe [LICENSE](./LICENSE) für den vollständigen Text.
