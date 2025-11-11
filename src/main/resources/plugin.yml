@@ -1,0 +1,7 @@
+name: IMX-Spawn
+version: '${project.version}'
+main: de.imxstudio.imxspawn.IMXSpawn
+api-version: '1.13'
+website: 'https://imx-studio.de'
+authors:
+  - IMX-STUDIO
