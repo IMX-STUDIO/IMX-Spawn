@@ -47,3 +47,6 @@ Für Netzwerke, die keinen aufgeblähten All-in-One-Klotz wollen, sondern ein fo
 
 IMX-Spawn ist freie Software unter der **GNU GPLv3**.  
 Siehe [LICENSE](./LICENSE) für den vollständigen Text.
+
+"IMX-STUDIO" und "IMX-Spawn" sind Kennzeichen von IMX-STUDIO.
+Forks oder inoffizielle Builds dürfen nicht als "offiziell" auftreten.
