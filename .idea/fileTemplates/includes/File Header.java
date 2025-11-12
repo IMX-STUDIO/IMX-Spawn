@@ -1,7 +1,3 @@
-package de.imxstudio.imxspawn;
-
-import org.bukkit.plugin.java.JavaPlugin;
-
 /*
  * IMX-Spawn
  * Copyright (C) IMX-STUDIO
@@ -19,17 +15,3 @@ import org.bukkit.plugin.java.JavaPlugin;
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
-
-public final class IMXSpawn extends JavaPlugin {
-
-    @Override
-    public void onEnable() {
-        // Plugin startup logic
-
-    }
-
-    @Override
-    public void onDisable() {
-        // Plugin shutdown logic
-    }
-}

@@ -5,3 +5,4 @@ api-version: '1.13'
 website: 'https://imx-studio.de'
 authors:
   - IMX-STUDIO
+license: GPL-3.0

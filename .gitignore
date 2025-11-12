@@ -1,5 +1,9 @@
 # User-specific stuff
-.idea/
+.idea/*
+!.idea/fileTemplates
+.idea/fileTemplates/internal
+!.idea/fileTemplates/includes
+!.idea/fileTemplates/includes/File Header.java
 
 *.iml
 *.ipr
